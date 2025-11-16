@@ -1,6 +1,6 @@
 # 30-Days-AIDD-Challenge
 
-###My Thoughts on AI-Driven Development
+### My Thoughts on AI-Driven Development
 
 **What does AI-Driven Development mean to you?**
 
