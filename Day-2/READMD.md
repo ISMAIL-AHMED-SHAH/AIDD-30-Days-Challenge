@@ -1,9 +1,11 @@
-### 🌐 30-Days AI-Driven Development
+# 🌐 30-Days AI-Driven Development Challenge
 
 ## 📝 Task 2
-🧍‍♂️ Name: Ismail Ahmed Shah
-📍 Class Slot: Friday — 6:00 PM to 9:00 PM
-👨‍🏫 Instructor: Sir Hamzah Syed
+Name: Ismail Ahmed Shah
+
+Class Slot: Friday — 6:00 PM to 9:00 PM
+
+Instructor: Sir Hamzah Syed
 
 ### 📁Part A — Theory (Short Questions)
 
