@@ -1,6 +1,11 @@
-# 30-Days-AIDD-Challenge
+# 🌐 30-Days AI-Driven Development
 
-## Task # 01
+## 📝 Task 1
+Name: Ismail Ahmed Shah
+
+Class Slot: Friday — 6:00 PM to 9:00 PM
+
+Instructor: Sir Hamzah Syed
 
 ### My Thoughts on AI-Driven Development
 
